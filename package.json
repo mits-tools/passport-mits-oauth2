@@ -1,0 +1,13 @@
+{
+  "name": "passport-mits-oauth2",
+  "version": "1.0.0",
+  "main": "./lib",
+  "repository": "https://github.com/mits-tools/passport-mits-oauth2.git",
+  "author": "Peter Willis <peter.willis@mits-tools.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "debug": "^3.1.0",
+    "passport-oauth2": "1.x.x"
+  }
+}
